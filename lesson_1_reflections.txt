@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewing a diff  (diff -u) allowed me only to look at the lines of code that had changed, not at the entire file.  It is extremely useful.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+If I have access to the entire history of a file, I can see the progression of changes and not just the end product.  If something isn't working, I can go back to the old version to see how it worked and what was different.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+pros of google docs
+	changes are immediately committed so you don't lose anything
+pros of git
+	manually choosing allows you to save different versions that you can go back to and gives you a lot more control. 
+	It allows you to only commit when you want to, such as implementing a new feature, a bug fix.   
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?	
+git allows you to save multiple files with one commit because a project is usually comprised of more than one file.  This way, you can save the entire project, not just one file at a given moment.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log displays the committed snapshots of your project.n 
+git diff shows the differences between your working directory file and the index
+the commits are listed in reverse order.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+I would feel much more confident to take chances and try new coding techniques and ideas if I have a very detailed and consistent way to access the previous commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I will try and use git for all of my xcode projects.
