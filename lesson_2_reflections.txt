@@ -1,3 +1,7 @@
 
 What happens when you initialize a repository.  Why do you need to do it?
 When you initialize it, it creates the .git file and it then know what files are in the directory.  It doesn't do an commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area contains the files that you would like to commit next.  The working directory is all of the files in the directory.
+The repository are all of the files that have been committed ????
