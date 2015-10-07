@@ -9,3 +9,7 @@ The repository are all of the files that have been committed ????
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can choose to commit only certain files in your staging error that are associated with a logical change.  You don't need to commit all of them at once.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you are making experimental changes, but still want to have a working copy of the code.
+If you want to try a different language.
