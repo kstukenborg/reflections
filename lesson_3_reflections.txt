@@ -6,3 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 If am testing something out and don't want it available to everyone else in my project yet, I won't want to have it up on github.  Pushing 
 manually allows me to pick and choose what I would like to share.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork is a clone on github.  You use this if you don't have access or another's
+project and you want to make changes to it.
+clone is a copy of a repository.  You can clone something from github to your 
+local machine, or something on your local machine to your same machine.
+Branches are when you are making changes on a single repository but maybe you are doing something experimental or different that you don't want in the main line of code.
