@@ -13,3 +13,10 @@ project and you want to make changes to it.
 clone is a copy of a repository.  You can clone something from github to your 
 local machine, or something on your local machine to your same machine.
 Branches are when you are making changes on a single repository but maybe you are doing something experimental or different that you don't want in the main line of code.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This is useful if I'm going to be without internet access and I want to update
+my local copy before I go offline. I may want to do this before I merge it with
+my own changes.  It is possible to do a merge offline.
+
