@@ -20,3 +20,10 @@ This is useful if I'm going to be without internet access and I want to update
 my local copy before I go offline. I may want to do this before I merge it with
 my own changes.  It is possible to do a merge offline.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could use something like google drive or dropbox, however, it wouldn't have
+all the tools you need to handle merges, commits and source control.  But it
+would be easier to use right off the bat!
+
+
